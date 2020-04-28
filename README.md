@@ -9,7 +9,7 @@ Bug-Tracking mechanism is employed only is some of the large software developmen
 
 <h3>Features:</h3>
 <hr>
-	Product and Component based
+	Product and Component based<br/>
 	Creating & Changing Bugs at ease
 	Query Bug List to any depth
 	Reporting & Charting in more comprehensive way
@@ -18,6 +18,6 @@ Bug-Tracking mechanism is employed only is some of the large software developmen
 	Multi-level Priorities & Severities
 	Targets & Milestones for guiding the programmers
 	Attachments & Additional Comments for more information
-•	Robust database back-end
+ Robust database back-end
 
 
